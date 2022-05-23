@@ -1,0 +1,18 @@
+
+.App {
+  text-align: center;
+}
+
+
+.main-container {
+  padding: 0 !important;
+}
+
+body, html {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  background-color: #F9FBFF;
+}

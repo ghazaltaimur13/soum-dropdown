@@ -1,0 +1,22 @@
+.main-container {
+    .d-category-container {
+        list-style: none;
+        padding: 0;
+    }
+    
+    .d-category-node {
+        padding: 0.75rem 1.25rem;
+        .description {
+            font-size: 10px;
+        }
+    }
+
+    .variant {
+        background-color: #ddd;
+        padding: 5px 10px;
+        margin-right: 10px;
+    }
+    .categories {
+        background-color: #ddd;
+    }
+}
